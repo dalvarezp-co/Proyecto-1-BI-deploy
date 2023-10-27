@@ -1,0 +1,3 @@
+1. pip install streamlit
+2. proyecto_grupo13.py en el mismo directorio
+3. streamlit run .\streamlit-app.py
